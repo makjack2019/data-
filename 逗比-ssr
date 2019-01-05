@@ -1,0 +1,89 @@
+book一键安装脚本  网址：https://doubmirror.cf/aybh4ww5-2.html
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+
+使用说明
+进入下载脚本的目录并运行脚本：
+
+./brook.sh
+然后选择你要执行的选项即可。
+
+ Brook 一键管理脚本 [vx.x.x]
+ ---- Toyo | doub.io/brook-jc3 ----
+ book一键安装脚本  网址：https://doubmirror.cf/aybh4ww5-2.html
+wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+
+使用说明
+进入下载脚本的目录并运行脚本：
+
+./brook.sh
+然后选择你要执行的选项即可。
+
+ Brook 一键管理脚本 [vx.x.x]
+ ---- Toyo | doub.io/brook-jc3 ----
+ 
+ 0. 升级脚本
+————————————
+ 1. 安装 Brook
+ 2. 升级 Brook
+ 3. 卸载 Brook
+————————————
+ 4. 启动 Brook
+ 5. 停止 Brook
+ 6. 重启 Brook
+————————————
+ 7. 设置 账号配置
+ 8. 查看 账号信息
+ 9. 查看 日志信息
+10. 查看 链接信息
+————————————
+ 
+ 当前状态: 已安装 并 已启动
+ 
+ 请输入数字 [0-10]:
+其他操作
+启动：/etc/init.d/brook start
+
+停止：/etc/init.d/brook stop
+
+重启：/etc/init.d/brook restart
+
+查看状态：/etc/init.d/brook status
+
+安装目录：/usr/local/brook
+
+配置文件：/usr/local/brook/brook.conf
+
+日志文件：/usr/local/brook/brook.log（注意正常情况下，日志是不会记录使用信息的，只会记录报错）
+ 0. 升级脚本
+————————————
+ 1. 安装 Brook
+ 2. 升级 Brook
+ 3. 卸载 Brook
+————————————
+ 4. 启动 Brook
+ 5. 停止 Brook
+ 6. 重启 Brook
+————————————
+ 7. 设置 账号配置
+ 8. 查看 账号信息
+ 9. 查看 日志信息
+10. 查看 链接信息
+————————————
+ 
+ 当前状态: 已安装 并 已启动
+ 
+ 请输入数字 [0-10]:
+其他操作
+启动：/etc/init.d/brook start
+
+停止：/etc/init.d/brook stop
+
+重启：/etc/init.d/brook restart
+
+查看状态：/etc/init.d/brook status
+
+安装目录：/usr/local/brook
+
+配置文件：/usr/local/brook/brook.conf
+
+日志文件：/usr/local/brook/brook.log（注意正常情况下，日志是不会记录使用信息的，只会记录报错）
